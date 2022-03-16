@@ -6,9 +6,10 @@ Two bash scripts that utilise the PLUMED `sum_hills` function to compute:
 
 2. The convergence in the ligand binding free energy: `convergence.sh`
 <br>
-The bash scripts are used in the jupyter notebook.
+The bash scripts are used by the jupyter notebook.
 <br>
 <br>
+
 **Author**: Afroditi Maria Zaki
 <br>
 
