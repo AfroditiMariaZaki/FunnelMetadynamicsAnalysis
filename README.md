@@ -1,5 +1,6 @@
 # Funnel Metadynamics Analysis
 A jupyter notebook (`FunnelMetadynamics.ipynb`) written for the analysis of Funnel Metadynamics simulation trajectories.
+<br>
 Two bash scripts that utilise the PLUMED `sum_hills` function to compute:  
 <br>
 1. The 1D and 2D ligand binding free energy: `free_energy.sh`  
